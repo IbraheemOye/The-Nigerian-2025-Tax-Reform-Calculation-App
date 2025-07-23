@@ -18,8 +18,8 @@ Mobile/Web accessibility.
 Integrated FIRS tax tables and 2025 pit Act amendments.  
 Presidential Fiscal Policy and Tax Reform Committee.
 # Tech Stack
-Python,
-SQL,  
+Python,  
+Streamlit,  
 Jupyter Notebook (For demo/testing with stakeholders)
 # How It Works
 It is a user friendly.  
@@ -34,4 +34,6 @@ Taxable Income:  ------
 Income Tax: ------  
 Total Deductions (Tax + Pension): ------  
 Net Income: -------
+# How the App Works
+Run this link and choose your gross income: https://the-nigerian-2025-tax-reform-calculation-appgit-55neee3turrmka.streamlit.app/
 
