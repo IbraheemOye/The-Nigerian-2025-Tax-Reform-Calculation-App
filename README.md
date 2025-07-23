@@ -19,6 +19,7 @@ Integrated FIRS tax tables and 2025 pit Act amendments.
 Presidential Fiscal Policy and Tax Reform Committee.
 # Tech Stack
 Python,
+SQL,  
 Jupyter Notebook (For demo/testing with stakeholders)
 # How It Works
 It is a user friendly.  
