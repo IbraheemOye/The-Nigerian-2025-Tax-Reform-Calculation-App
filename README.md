@@ -10,27 +10,27 @@ Educate Taxpayers: Clarify deductions, reliefs, and exemptions under the new law
 # Scope
 Target Users: Salaried employees, self-employed professionals, SMEs, and tax consultants
 # Key Features
-Monthly/annual tax estimations.
-Adjustments for allowance deductions (e.g Pension Contributions)
-Compliance with state-specific tax variation (e.g Lagos vs Kano).
+Monthly/annual tax estimations.  
+Adjustments for allowance deductions (e.g Pension Contributions).  
+Compliance with state-specific tax variation (e.g Lagos vs Kano).  
 Mobile/Web accessibility
 # Data Source 
-Integrated FIRS tax tables and 2025 pit Act amendments.
+Integrated FIRS tax tables and 2025 pit Act amendments.  
 Presidential Fiscal Policy and Tax Reform Committee.
 # Tech Stack
-Python 
-Jupyter Notebook (For demo/testing with stakeholders)
+Python,
+Jupyter, Notebook (For demo/testing with stakeholders)
 # How It Works
-It is a user friendly.
-User enters his/her gross income
-User enters the pension_limit
+It is a user friendly. 
+User enters his/her gross income. 
+User enters the pension_limit. 
 It displays the following information of the user:
 2025 Monthly Tax Calculation (Nigeria)
-Gross Income: 
-Pension Contribution (8%):
-Consolidated Relief Allowance:
-Taxable Income: 
-Income Tax: 
-Total Deductions (Tax + Pension): 
-Net Income: 
+Gross Income: ----- 
+Pension Contribution (8%): ----- 
+Consolidated Relief Allowance: ------ 
+Taxable Income:  ------ 
+Income Tax: ------ 
+Total Deductions (Tax + Pension): ------ 
+Net Income: -------
 
